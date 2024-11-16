@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "90ffeb86af1f6cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f4602c94a2c753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f98bbbe96c45910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POS/IPv6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPv6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b430548e63c8cb03",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bfd79089f47fc9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e43bc0b02520bcf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d76b8ce2cd59fa3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2aca348f857fb1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "f90d420e3497887f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6812dbecc752759d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f5a18505514739",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning mindset.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Learning mindset"
+            }
+          },
+          {
+            "id": "c8137f053b2469da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning mindset.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Learning mindset"
+            }
+          },
+          {
+            "id": "58c3f41087493c1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a1c06a1ab1c68ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning mindset.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Learning mindset"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f98bbbe96c45910",
+  "lastOpenFiles": [
+    "POS/VLAN configuration.md",
+    "POS/IPv6.md",
+    "POS/OSPF configuration.md",
+    "POS/RIPv2 configuration.md",
+    "CF/Square layers.md",
+    "CF/Cyclic array.md",
+    "CF/01 list majority.md",
+    "POS/Project subnetting.md",
+    "POS",
+    "data/Postgres Docker Setup.md",
+    "Mistakes.md",
+    "data",
+    "Learning mindset.md",
+    "CF",
+    "Welcome.md"
+  ]
+}
