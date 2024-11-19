@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POS/IPv6.md",
+                "file": "POS/NAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv6"
+              "title": "NAT"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "8f98bbbe96c45910",
   "lastOpenFiles": [
-    "POS/VLAN configuration.md",
     "POS/IPv6.md",
+    "POS/NAT.md",
+    "Learning mindset.md",
+    "CF/C++ Strings.md",
+    "POS/VLAN configuration.md",
     "POS/OSPF configuration.md",
     "POS/RIPv2 configuration.md",
     "CF/Square layers.md",
@@ -176,7 +179,6 @@
     "data/Postgres Docker Setup.md",
     "Mistakes.md",
     "data",
-    "Learning mindset.md",
     "CF",
     "Welcome.md"
   ]
